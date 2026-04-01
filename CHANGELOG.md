@@ -3,3 +3,4 @@
 All notable changes documented here.
 
 - **2026-03-29**: perf: vectorize Haversine distance computations across batches
+- **2026-04-01**: chore: add synthetic transaction generator script for load testing
