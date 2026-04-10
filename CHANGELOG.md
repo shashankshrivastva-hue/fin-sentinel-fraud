@@ -7,3 +7,4 @@ All notable changes documented here.
 - **2026-04-03**: feat: add geographical velocity anomaly scoring (impossible travel)
 - **2026-04-05**: refactor: separate heuristic rule engine from ML anomaly classifier
 - **2026-04-09**: chore: add synthetic transaction generator script for load testing
+- **2026-04-11**: test: test high-velocity burst detection under concurrent requests
