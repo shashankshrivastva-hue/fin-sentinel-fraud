@@ -8,3 +8,4 @@ All notable changes documented here.
 - **2026-04-05**: refactor: separate heuristic rule engine from ML anomaly classifier
 - **2026-04-09**: chore: add synthetic transaction generator script for load testing
 - **2026-04-11**: test: test high-velocity burst detection under concurrent requests
+- **2026-04-15**: perf: vectorize Haversine distance computations across batches
