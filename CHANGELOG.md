@@ -11,3 +11,4 @@ All notable changes documented here.
 - **2026-04-15**: perf: vectorize Haversine distance computations across batches
 - **2026-04-18**: chore: add synthetic transaction generator script for load testing
 - **2026-04-20**: docs: document feature importance rankings and decision boundaries
+- **2026-04-22**: refactor: separate heuristic rule engine from ML anomaly classifier
