@@ -17,3 +17,4 @@ All notable changes documented here.
 - **2026-05-01**: perf: vectorize Haversine distance computations across batches
 - **2026-05-04**: feat: add geographical velocity anomaly scoring (impossible travel)
 - **2026-05-06**: chore: add synthetic transaction generator script for load testing
+- **2026-05-09**: chore: add synthetic transaction generator script for load testing
