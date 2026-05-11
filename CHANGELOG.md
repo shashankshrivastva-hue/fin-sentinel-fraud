@@ -18,3 +18,4 @@ All notable changes documented here.
 - **2026-05-04**: feat: add geographical velocity anomaly scoring (impossible travel)
 - **2026-05-06**: chore: add synthetic transaction generator script for load testing
 - **2026-05-09**: chore: add synthetic transaction generator script for load testing
+- **2026-05-11**: test: test high-velocity burst detection under concurrent requests
