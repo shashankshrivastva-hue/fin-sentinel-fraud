@@ -21,3 +21,4 @@ All notable changes documented here.
 - **2026-05-11**: test: test high-velocity burst detection under concurrent requests
 - **2026-05-15**: refactor: separate heuristic rule engine from ML anomaly classifier
 - **2026-05-15**: refactor: separate heuristic rule engine from ML anomaly classifier
+- **2026-05-18**: style: clean up Pydantic validator schemas and error messages
