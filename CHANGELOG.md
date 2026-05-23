@@ -24,3 +24,4 @@ All notable changes documented here.
 - **2026-05-18**: style: clean up Pydantic validator schemas and error messages
 - **2026-05-20**: fix: normalize transaction amount z-scores against user baseline
 - **2026-05-23**: fix: normalize transaction amount z-scores against user baseline
+- **2026-05-23**: refactor: separate heuristic rule engine from ML anomaly classifier
