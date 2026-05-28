@@ -26,3 +26,4 @@ All notable changes documented here.
 - **2026-05-23**: fix: normalize transaction amount z-scores against user baseline
 - **2026-05-23**: refactor: separate heuristic rule engine from ML anomaly classifier
 - **2026-05-26**: perf: vectorize Haversine distance computations across batches
+- **2026-05-28**: refactor: separate heuristic rule engine from ML anomaly classifier
