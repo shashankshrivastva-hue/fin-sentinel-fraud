@@ -29,3 +29,4 @@ All notable changes documented here.
 - **2026-05-28**: refactor: separate heuristic rule engine from ML anomaly classifier
 - **2026-06-02**: docs: document feature importance rankings and decision boundaries
 - **2026-06-05**: refactor: separate heuristic rule engine from ML anomaly classifier
+- **2026-06-07**: docs: document feature importance rankings and decision boundaries
