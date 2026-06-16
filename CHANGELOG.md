@@ -33,3 +33,4 @@ All notable changes documented here.
 - **2026-06-07**: fix: normalize transaction amount z-scores against user baseline
 - **2026-06-11**: style: clean up Pydantic validator schemas and error messages
 - **2026-06-14**: style: clean up Pydantic validator schemas and error messages
+- **2026-06-16**: test: test high-velocity burst detection under concurrent requests
