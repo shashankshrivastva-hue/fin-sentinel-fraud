@@ -36,3 +36,4 @@ All notable changes documented here.
 - **2026-06-16**: test: test high-velocity burst detection under concurrent requests
 - **2026-06-18**: refactor: separate heuristic rule engine from ML anomaly classifier
 - **2026-06-18**: docs: document feature importance rankings and decision boundaries
+- **2026-06-21**: test: test high-velocity burst detection under concurrent requests
